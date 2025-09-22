@@ -1,0 +1,18 @@
+**Cara Membuat Repository Di Github Dan Cara Invite Akun Pak Al**
+
+1. Buka GitHub: login ke akun kita masing-masing.
+
+2. pilih New repository.
+isi form:
+Repository name → isi nama repo (contoh: tugas-nanas).
+Description (opsional).
+Pilih Public (bisa dilihat semua orang) 
+Centang Add a README file (biar ada file awal).
+Klik tombol Create repository.
+
+3. Invite Pak Al ke Repository
+Buka repo yang sudah kamu buat.
+Klik tab Settings (di bagian atas repo).
+Pilih Collaborators.
+Klik tombol Add people.
+Masukkan akun Pak Al 

@@ -1,0 +1,23 @@
+**Cara Integrasikan VSCode ke Github**
+
+1. Login GitHub di VS Code
+
+2. Klik icon Source Control di sidebar kiri (yang gambarnya kayak cabang/branch).
+
+3. Klik tombol Sign in to GitHub (atau bisa lewat menu bawah kanan biasanya ada notifikasi “Sign in”).
+
+Browser akan terbuka → login ke GitHub → authorize VS Code.
+
+4. Konfigurasi Git (kalau belum)
+
+5. Atur username dan email biar commit-mu ada identitas: git config --global user.name "Nama Kamu"
+git config --global user.email "emailkamu@example.com"
+
+6. Buka folder project di VS Code
+Klik Open Folder… di menu Start (yang ada di screenshot).
+Pilih folder project kamu.
+
+7. Inisialisasi Git
+Kalau project baru: git init
+Kalau mau clone repo dari GitHub: git clone https://github.com/username/nama-repo.git
+8. Lalu buka folder hasil clone di VS Code.

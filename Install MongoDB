@@ -1,0 +1,7 @@
+**Instalasi MongoDB di Linux Mint**: 
+
+1. Buka terminal. 
+2. Buka Fire Fox 
+3. Instal MongoDB. 'sudo apt install mongodb-org'
+4. Jalankan layanan MongoDB. 'sudo systemctl start mongod'
+5. cek keaktifan MongoDB dengan kode 'sudo systemctl status mongod'

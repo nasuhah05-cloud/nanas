@@ -1,0 +1,10 @@
+**Cara Install Visual Studio Code di Linux Mint 22**
+
+1. Buka Terminal 
+2. Cari di Fire Fox cara install vscode 
+3. Impor Kunci GPG Microsoft: 'wget -qO- https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > packages.microsoft.gpg sudo install -D -o root -g root -m 644 packages.microsoft.gpg /etc/apt/keyrings/packages.microsoft.gpg'
+4. Instal Dependensi yang Diperlukan: 'sudo apt update
+sudo apt install apt-transport-https'
+5. Aktifkan Repositori VS Code: 'echo "deb [arch=amd64 signed-by=/etc/apt/keyrings/packages.microsoft.gpg] https://packages.microsoft.com/repos/code stable main" | sudo tee /etc/apt/sources.list.d/vscode.list' 
+6. Update dan Instal VS Code: 'sudo apt update sudo apt install code'
+7. Verifikasi Instalasi:  'code --version'
