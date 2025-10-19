@@ -1,0 +1,14 @@
+**PERTEMUAN 1** 
+Modul ini menjelaskan tentang mekanisme dalam pembelajaran di setiap pertemuan, mempersiapkan untuk tempat penyimpanan dokumen dan lingkungan pendukungnya. 
+
+**PERTEMUAN 2** 
+Modul ini menjelaskan bahwa data adalah pondasi untuk melakukan pencatatan dan analisis. Dalam perpustakaan, penggunaan database dapat menjaga keamanan data-data anggota dibandingkan sistem manual. *Database Management System* (DBMS) lebih efisien dibandingkan file biasa. Sistem manajemen basis data relasional *open-source* atau MariaDB dalam perpustakaan mempunyai peran, yaitu menjadikan layanan lebih cepat dan aman. 
+
+**PERTEMUAN 3**
+Modul ini menjelaskan tentang konsep dasar databasee, tabel, baris, dan kolom. Pemilihan tipe data yang tepat memastikan informasi konsisten, efisien, dan akurat. Tutorial membuat database baru dengan perintah 'CREATE DATABASE', dari mulai login, perintah dasar, opsi tambahan, sampai verifikasi. Tutorial membuat tabel sederhana dengan perintah 'CREATE TABLE', dari mulai database, pembuatan tabel anggota, tabel buku, sampai tabel peminjaman. 
+
+**PERTEMUAN 4**
+Modul ini menjelaskan cara menambahkan, menampilkan, mengubah, dan menghapus data serta mengisi tabel. Penggunaan perintah 'INSERT' untuk menambahkan data baru ke tabel. Penggunaan perintah 'SELECT' untuk melihat semua isi tabel. Penggunaan perintah 'UPDATE' untuk mengubah isi data pada tabel. Penggunaan perintah 'DELETE' untuk menghapus data dari tabel. 
+
+**PERTEMUAN 5**
+Modul ini menjelaskan cara mencari, menyaring, mengurutkan data, dan pencarian buku. Mengajarkan penggunaan klausa WHERE untuk menyaring data. Mengajarkan operator perbandingan seperti =, >, <, dan LIKE. Mengajarkan cara mengurutkan hasil query dengan ORDER BY. 
